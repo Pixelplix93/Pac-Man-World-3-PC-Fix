@@ -1,4 +1,4 @@
-# Pac-Man World 3 Enhanced (PC)
+# Pac-Man World 3 PC Fix
 
 <img width="725" height="400" alt="PW3" src="https://github.com/user-attachments/assets/9f2b42d0-ddb2-42a0-9883-e7da246a0554" />
 
